@@ -1,0 +1,4 @@
+id,	created_at,name,	city,			region,				        modes,				               	year
+1,	1768916733594,	    RATP,			Paris,Île-de-France,		"metro, bus, rer, tram",	       	2024
+2,	1768916799662,		TCL,            Lyon,Auvergne-Rhône-Alpes,	"metro, bus, tram, funiculaire",   	2024
+3,	1768916882616,		RTM,			Marseille,PACA,			     "metro, bus, tram",		        2024

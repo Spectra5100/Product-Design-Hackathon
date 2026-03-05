@@ -1,0 +1,22 @@
+{
+  "name": "eco-comparateur-frontend",
+  "version": "1.0.0",
+  "description": "Frontend éco-conçu pour comparer l'impact environnemental des villes",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve src -p 3000",
+    "build": "echo 'Pas de build nécessaire - HTML/CSS/JS vanille'",
+    "start": "npx serve src -p 8080"
+  },
+  "keywords": [
+    "eco-conception",
+    "environnement",
+    "low-code",
+    "sustainability"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
