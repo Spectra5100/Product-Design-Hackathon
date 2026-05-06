@@ -1,4 +1,4 @@
-# 🌿 Écomove – Comparateur d'Écomobilité
+#  Écomove – Comparateur d'Écomobilité
 
 ![Écomove Banner](https://img.shields.io/badge/Écomove-Écomobilité-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-En%20développement-yellow?style=for-the-badge)
