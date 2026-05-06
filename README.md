@@ -1,4 +1,4 @@
-# 🚗🌿 Écomove – Comparateur d'Écomobilité
+# 🌿 Écomove – Comparateur d'Écomobilité
 
 ![Écomove Banner](https://img.shields.io/badge/Écomove-Écomobilité-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-En%20développement-yellow?style=for-the-badge)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📖 Description
+##  Description
 
 **Écomove** est une plateforme web permettant aux citoyens de comparer les performances écologiques des principaux opérateurs de transport en commun français. Le projet a été développé dans le cadre d'un **hackathon de design produit**.
 
@@ -17,20 +17,20 @@ L'application compare les opérateurs **RATP**, **TCL** et **RTM** selon plusieu
 
 ---
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
-- 🔍 **Comparaison multi-opérateurs** : RATP, TCL, RTM et vue d'ensemble
-- 📊 **Indicateurs écologiques détaillés** :
+-  **Comparaison multi-opérateurs** : RATP, TCL, RTM et vue d'ensemble
+-  **Indicateurs écologiques détaillés** :
   - Émissions CO₂ (kg de CO₂ par km)
   - Consommation énergétique (kWh par km)
   - Part de véhicules propres (% électriques / hybrides)
   - Taux de remplissage (% moyen d'occupation)
-- 🏆 **Score global sur 100** pour chaque opérateur
-- 🎨 Interface claire et accessible avec code couleur par opérateur
+-  **Score global sur 100** pour chaque opérateur
+-  Interface claire et accessible avec code couleur par opérateur
 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 | Technologie | Usage |
 |-------------|-------|
@@ -40,7 +40,7 @@ L'application compare les opérateurs **RATP**, **TCL** et **RTM** selon plusieu
 
 ---
 
-## 🚀 Installation & Lancement
+## Installation & Lancement
 
 ### Prérequis
 
@@ -75,7 +75,7 @@ npm run build
 
 ---
 
-## 📁 Structure du projet
+##  Structure du projet
 
 ```
 ecomove/
@@ -91,7 +91,7 @@ ecomove/
 
 ---
 
-## 📊 Données comparées
+## Données comparées
 
 | Indicateurs écologiques | RATP | TCL | RTM |
 |------------------------|------|-----|-----|
@@ -104,7 +104,7 @@ ecomove/
 
 ---
 
-## 🎨 Design
+##  Design
 
 L'interface adopte une charte graphique **écologique** :
 - Palette de verts dégradés pour l'arrière-plan
@@ -114,19 +114,19 @@ L'interface adopte une charte graphique **écologique** :
 
 ---
 
-## 👥 Équipe
+##  Équipe
 
 Projet réalisé dans le cadre du **Product Design Hackathon** (référence : `B-TBM-100-LYN-1-1`).
 
 ---
 
-## 📄 Licence
+##  Licence
 
 Ce projet est sous licence **MIT** — libre d'utilisation, de modification et de distribution.
 
 ---
 
-## 🤝 Contribuer
+##  Contribuer
 
 Les contributions sont les bienvenues !
 
